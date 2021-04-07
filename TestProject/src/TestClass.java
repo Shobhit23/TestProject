@@ -4,5 +4,7 @@ public class TestClass {
 		System.out.println("fourth commit");
 		
 		System.out.println("master branch");
+		
+		System.out.println();
 	}
 }
